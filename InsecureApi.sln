@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsecureApi", "InsecureApi\InsecureApi.csproj", "{8B37652F-3F46-4AE9-AC62-0F9E5E45E062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B37652F-3F46-4AE9-AC62-0F9E5E45E062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B37652F-3F46-4AE9-AC62-0F9E5E45E062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B37652F-3F46-4AE9-AC62-0F9E5E45E062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B37652F-3F46-4AE9-AC62-0F9E5E45E062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C656A56-1843-47A5-AE34-4A80067334FA}
+	EndGlobalSection
+EndGlobal

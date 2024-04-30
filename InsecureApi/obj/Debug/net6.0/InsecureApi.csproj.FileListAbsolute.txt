@@ -1,0 +1,167 @@
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.exe
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.deps.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.runtimeconfig.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.AssemblyReference.cache
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfoInputs.cache
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfo.cs
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\scopedcss\bundle\InsecureApi.styles.css
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CopyComplete
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\refint\InsecureApi.dll
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.genruntimeconfig.cache
+C:\Users\Natasha.Mora\Desktop\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\ref\InsecureApi.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.exe
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.deps.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.runtimeconfig.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.AssemblyReference.cache
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfoInputs.cache
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfo.cs
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\scopedcss\bundle\InsecureApi.styles.css
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CopyComplete
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\refint\InsecureApi.dll
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.genruntimeconfig.cache
+C:\Users\Natasha.Mora\OneDrive - Solera Holdings, Inc\GRC\InsecureApi\InsecureApi\obj\Debug\net6.0\ref\InsecureApi.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.exe
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.deps.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.runtimeconfig.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.AssemblyReference.cache
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfoInputs.cache
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.AssemblyInfo.cs
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.InsecureApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.InsecureApi.props
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InsecureApi.props
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InsecureApi.props
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\scopedcss\bundle\InsecureApi.styles.css
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CopyComplete
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\refint\InsecureApi.dll
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.pdb
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.genruntimeconfig.cache
+C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\ref\InsecureApi.dll
