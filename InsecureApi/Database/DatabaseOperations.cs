@@ -15,6 +15,7 @@ namespace InsecureApi.Database
         public string userName = "root";
         public string password = "admin";
         private MySqlConnection? connection;
+        private string apiKey = "0imfnc8mVLWwsAawjYr4Rx-Af50DDqtlx";
 
         public void openConnection()
         {
