@@ -63,9 +63,9 @@ namespace InsecureApi.Controllers
         [Route("searchFile")]
         public IActionResult SearchFile([FromRoute] string fileName)
         {
-            string fileExists = fs.searchFileInOs(fileName);
+            string file = fs.searchFileInOs(fileName);
 
-            return new JsonResult(fileExists);
+            return new JsonResult(file);
         }
     }
 }

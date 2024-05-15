@@ -12,16 +12,21 @@ namespace InsecureApi.Services
 {
     public class FileService 
     {
-        public string searchFileInOs(string fileName)
-        {
-            file = Path.Combine(Path.GetTempPath(), fileName);
-            
-            if (System.IO.File.Exists(fileName))
-            {
-                return "File is in server: " + fileName;
-            }
+        private string serverPath = @"E:\dir\files";
 
-            return "File is not in server: " + fileName;
+        public string searchFileInOs(string filename)
+        {
+            string location = Path.Combine(serverPath, filename);
+            
+            if(File.Exists(location))
+            {
+                using (StreamReader reader = new StreamReader(location))
+                {
+                    return reader.ReadToEnd();
+                }
+            }
+            
+            return "File not found";
         }
     }
 }
