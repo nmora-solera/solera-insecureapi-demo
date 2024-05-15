@@ -59,13 +59,25 @@ namespace InsecureApi.Controllers
             return new JsonResult(true);
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("searchFile")]
         public IActionResult SearchFile([FromRoute] string fileName)
         {
             string file = fs.searchFileInOs(fileName);
 
             return new JsonResult(file);
+        }
+
+        [HttpPost]
+        [Route("processXml")]
+        public IActionResult ProcessXml([FromBody] XmlModel xml)
+        {
+            using (XmlReader reader = XmlReader.Create(stream, settings))
+            {
+                fs.ProcessXmlFile(reader);
+            }       
+
+            return new JsonResult(true);
         }
     }
 }

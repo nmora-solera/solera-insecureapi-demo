@@ -28,5 +28,24 @@ namespace InsecureApi.Services
             
             return "File not found";
         }
+
+        public void ProcessXmlFile(XmlReader reader)
+        {
+            while (reader.Read())
+            {
+                if (reader.Name == "UserId")
+                {
+                    var userIdStr = reader.ReadElementContentAsString();
+                    if (long.TryParse(userIdStr, out string userIdValue))
+                    {
+                        Console.WriteLine($"An item with the '{userIdValue}' user ID was processed.");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{userIdStr} is not valid 'userID' value.");
+                    }
+                }
+            }
+        }
     }
 }
