@@ -1,6 +1,6 @@
 namespace InsecureApi.Classes
 {
-    [XmlRoot(ElementName = "document", Namespace = "")]
+    /*[XmlRoot(ElementName = "document", Namespace = "")]
     public class XmlModel
     {
         [XmlElement(DataType = "string", ElementName = "UserId")]
@@ -8,5 +8,5 @@ namespace InsecureApi.Classes
 
         [XmlElement(DataType = "string", ElementName = "UserName")]
         public string UserName { get; set; }
-    }
+    }*/
 }

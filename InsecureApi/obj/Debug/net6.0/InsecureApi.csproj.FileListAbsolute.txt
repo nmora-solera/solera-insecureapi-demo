@@ -151,11 +151,6 @@ C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\Insecur
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.csproj.CoreCompileInputs.cache
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\InsecureApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.InsecureApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.build.InsecureApi.props
-C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InsecureApi.props
-C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InsecureApi.props
-C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\Natasha.Mora\Documents\InsecureApi\InsecureApi\obj\Debug\net6.0\scopedcss\bundle\InsecureApi.styles.css

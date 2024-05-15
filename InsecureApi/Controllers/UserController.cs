@@ -5,6 +5,7 @@ using Newtonsoft.Json.Linq;
 using System.IO;
 using System.Net;
 using System.Threading.Tasks;
+using InsecureApi.Services;
 
 namespace InsecureApi.Controllers
 {
@@ -60,15 +61,15 @@ namespace InsecureApi.Controllers
         }
 
         [HttpGet]
-        [Route("searchFile")]
-        public IActionResult SearchFile([FromRoute] string fileName)
+        [Route("searchFiles/{userId}")]
+        public IActionResult SearchFiles([FromRoute] string userId)
         {
-            string file = fs.searchFileInOs(fileName);
+            List<string> files = fs.getUserFiles(userId);
 
-            return new JsonResult(file);
+            return new JsonResult(files);
         }
 
-        [HttpPost]
+        /*[HttpPost]
         [Route("processXml")]
         public IActionResult ProcessXml([FromBody] XmlModel xml)
         {
@@ -78,6 +79,6 @@ namespace InsecureApi.Controllers
             }       
 
             return new JsonResult(true);
-        }
+        }*/
     }
 }

@@ -12,24 +12,24 @@ namespace InsecureApi.Services
 {
     public class FileService 
     {
-        private string serverPath = @"E:\dir\files";
+        private string serverPath = @"C:\Users\Natasha.Mora\Documents";
 
-        public string searchFileInOs(string filename)
+        public List<string> getUserFiles(string userId)
         {
-            string location = Path.Combine(serverPath, filename);
+            List<string> filesList = new List<string>();
+            string location = Path.Combine(serverPath, userId);
+
+            string[] files = Directory.GetFiles(location);
             
-            if(File.Exists(location))
+            foreach (string file in files) 
             {
-                using (StreamReader reader = new StreamReader(location))
-                {
-                    return reader.ReadToEnd();
-                }
+                filesList.Add(file);
             }
-            
-            return "File not found";
+
+            return filesList;
         }
 
-        public void ProcessXmlFile(XmlReader reader)
+        /*public void ProcessXmlFile(XmlReader reader)
         {
             while (reader.Read())
             {
@@ -46,6 +46,6 @@ namespace InsecureApi.Services
                     }
                 }
             }
-        }
+        }*/
     }
 }
