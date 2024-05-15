@@ -12,7 +12,7 @@ namespace InsecureApi.Services
 {
     public class FileService 
     {
-        private string serverPath = @"C:\Users\Natasha.Mora\Documents";
+        private string serverPath = @"E:\dir\path";
 
         public List<string> getUserFiles(string userId)
         {
@@ -23,7 +23,9 @@ namespace InsecureApi.Services
             
             foreach (string file in files) 
             {
-                filesList.Add(file);
+                int filePosition = file.LastIndexOf('\\');
+                string trimmedFile = file.Substring(filePosition + 1);
+                filesList.Add(trimmedFile);
             }
 
             return filesList;
