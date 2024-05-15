@@ -13,10 +13,12 @@ namespace InsecureApi.Controllers
     public class UserController : ControllerBase
     {
         private DatabaseOperations db;
+        private FileService fs;
 
         public UserController()
         {
             db = new DatabaseOperations();
+            fs = new FileService();
         }
 
         [HttpGet]
@@ -55,6 +57,15 @@ namespace InsecureApi.Controllers
             db.ChangePassword(id, newPassword);
 
             return new JsonResult(true);
+        }
+
+        [HttpPost]
+        [Route("searchFile")]
+        public IActionResult SearchFile([FromRoute] string fileName)
+        {
+            string fileExists = fs.searchFileInOs(fileName);
+
+            return new JsonResult(fileExists);
         }
     }
 }
